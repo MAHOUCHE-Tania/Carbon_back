@@ -49,4 +49,4 @@ video = 13.5g EqCO2 max per minute on server
 https://carbon-apirest.herokuapp.com/
   
 ### Points d'accées:
-On a plusieurs points d'accées mais le principale pour récuperer la data sous format .json traités est: https://carbon-apirest.herokuapp.com/user/<username>, exemple pour tester https://carbon-apirest.herokuapp.com/user/cristiano avec user/pseudo twitter de l'utilisateur, notre API est sécurisé avec CORS, donc personne ne peut l'utiliser que notre site hébergé sur netlify.
+On a plusieurs points d'accées mais le principale pour récuperer la data sous format .json traités est: https://carbon-apirest.herokuapp.com/user/<username>, exemple pour tester https://carbon-apirest.herokuapp.com/user/cristiano avec user/pseudo twitter de l'utilisateur.
